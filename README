@@ -1,5 +1,5 @@
 Set up instructions:
- npm install async extend irc ripple-lib
+ npm install async extend irc divvy-lib
  cp config-example.js config.js
 
 Customize config.js
